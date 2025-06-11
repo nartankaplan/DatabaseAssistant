@@ -1,6 +1,13 @@
 # DatabaseAssistant
 AI Assistant for product managers in order to analyze their company sales.
 
+# Demo Video
+
+
+https://github.com/user-attachments/assets/5c11c354-18db-4b21-9526-33612608b9d7
+
+
+
 
 
 # 🧠 Northwind SQL Assistant with Gemini & Gradio
